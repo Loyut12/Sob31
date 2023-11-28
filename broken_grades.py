@@ -21,9 +21,9 @@
 
 exam_one = int(input("Input exam grade one: "))
 
-exam_two = input("Input exam grade two: "))
+exam_two = int(input("Input exam grade two: "))
 
-exam_3 = str(input("Input exam grade three: "))
+exam_3 = int(input("Input exam grade three: "))
 
 grades = [exam_one exam_two exam_three]
 sum = 0
